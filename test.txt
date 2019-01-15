@@ -1,1 +1,0 @@
-Ceci est un fichier test desstiné à tester le bon fonctionnement de Git sur cette VM.
