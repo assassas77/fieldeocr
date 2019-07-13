@@ -8,7 +8,7 @@ todo
 todo
 
 # Contributing
-There is two part in this project :
+There is 4 part in this project :
 - Post-proofreading help is a small project. It is used after proofreading a page to make small corrections.
   - Checking newlines and ```<br/>``` presence
 - Current post-ocr processing consists of :
@@ -17,6 +17,9 @@ There is two part in this project :
 - Advanced post-ocr processing consists of :
   - Learning from previously done proofreading
   - Helping in processing new pages by suggesting candidates
+- Others tools
+  - Text converter ia6 <=> iã <=> iă
+  - Search tool
 ## Post-proofreading
 - Remove all end-of-line/new-line
 - Add new-line in front of every ```{{swatow entry|```
